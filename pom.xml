@@ -219,7 +219,7 @@
 					<!-- highlighting doesnt work with 2.10.x scala https://github.com/scoverage/sbt-scoverage/issues/72 -->
 					<highlighting>false</highlighting>
 					<aggregate>true</aggregate>
-					<minimumCoverage>70</minimumCoverage>
+					<minimumCoverage>30</minimumCoverage>
 					<failOnMinimumCoverage>true</failOnMinimumCoverage>
 				</configuration>
 				<executions>
